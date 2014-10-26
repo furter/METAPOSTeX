@@ -1,0 +1,3 @@
+METAPOSTeX
+
+This poster was initiated during Relearn Summer School, organised in 2013 by OSP, Open Source Publishing, at Variable in Brussels. It is a sequel to an open source poster made by OSP for the exhibition Visual Grammar at MAD Brussels in September 2012, showing the construction of Bézier and Spiro curves-based type design, laid-out with Inkscape.The present poster is an attempt to have a similar approach with the principles of MetaPost and MetaFont, using LaTeX for the layout. The title of the poster is a word play with the word TeX, which according to some users is supposed to be pronounced [ t E K ], “ter”.
